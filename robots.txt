@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hacker9official.github.io/safegaurd-your-smart-doorbell-from-hacking/sitemap.xml
